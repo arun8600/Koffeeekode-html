@@ -1,0 +1,101 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+	
+
+}
+@media only screen and (min-width: 993px) {
+
+}
+@media only screen and (min-width: 992px) {
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+	.main-title-black h2{font-size:25px;}
+	.main-title-black-1 h2{font-size:25px;}
+	.main-title-black:after{width: 120px;}
+	.main-title-black h2 span{font-size: 20px;}
+	.counter .circle-wrap {margin:0 auto;margin-bottom: 95px;float: none;}
+	.counter {padding: 50px 0px 0px 0px;}
+	.contact-project{padding: 19px 0px 30px 0px;}
+	.contact-project .start-contact .map-section{display: none;}
+	.contact-project .start-contact .form-group .sr-btn{width: 100%;}
+	.higher-plan .higher-plan-title h1{font-size: 37px;}
+	.higher-plan .higher-plan-title{margin-bottom: 77px;}
+	.higher-plan{padding: 60px 0px 30px 0px;}
+	.higher-plan .project-section .image-section{width: 100%;}
+	.higher-plan .project-section .project-details{width: 100%;}
+	.higher-plan .project-section{display: block;}
+	.higher-plan .project-section .project-details p{padding-left: 19px;}
+	.higher-plan .project-section .project-details p:after{top:5px}
+	.higher-plan .project-section .project-details{padding: 20px;}
+}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width:768px) {
+
+
+}
+
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 768px) {
+  
+
+}
+@media  (max-width: 480px) {
+   
+}
+@media (max-width: 991px) {
+  
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+	.higher-plan .higher-plan-title h1{font-size: 28px;}
+	
+}
+
+@media only screen and (max-width: 991.98px) {
+	
+	
+	
+}
+
+@media only screen and (max-width: 767.98px) {
+	
+
+}
+@media (min-width: 576px){
+	
+	
+}
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+	}
